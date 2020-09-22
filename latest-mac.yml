@@ -1,12 +1,12 @@
-version: 0.1.0
+version: 1.1.0
 files:
-  - url: Reworld-0.1.0-mac.zip
+  - url: Reworld-1.1.0-mac.zip
     sha512: 0rorRkzPsUdltcZIzV4BtYJHVILCWUvqhJh3kjTALXp5yYpdjr7Vvghcs760VUyMOWkC6fLcsLoE5jLoRkHzEg==
     size: 70817582
     blockMapSize: 75198
-  - url: Reworld-0.1.0.dmg
+  - url: Reworld-1.1.0.dmg
     sha512: HtOR6Rg3xWGjPt7PHNqdmpo7GYOGHhaBTNS+2/hw+bIbDxaHkST/JBJS09weRcGyLLEMY4xY9jhXzAP8YG1wmQ==
     size: 73503086
-path: Reworld-0.1.0-mac.zip
+path: Reworld-1.1.0-mac.zip
 sha512: 0rorRkzPsUdltcZIzV4BtYJHVILCWUvqhJh3kjTALXp5yYpdjr7Vvghcs760VUyMOWkC6fLcsLoE5jLoRkHzEg==
 releaseDate: '2020-09-21T08:04:46.763Z'
